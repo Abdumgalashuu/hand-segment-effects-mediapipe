@@ -27,3 +27,11 @@ This project uses MediaPipe hand tracking and OpenCV to control real-time image 
 
 ```bash
 pip install opencv-python mediapipe numpy
+
+## Project Preview
+
+The project detects the hand and selects one of six image processing effects using a segment-based gesture wheel.
+
+![Project Preview 1](preview_1.jpeg)
+
+![Project Preview 2](preview_2.jpeg)
