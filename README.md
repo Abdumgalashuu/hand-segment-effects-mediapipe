@@ -1,6 +1,6 @@
-# hand-segment-effects-mediapipe
-Real-time MediaPipe hand tracking project that selects image processing effects using a 6-segment gesture wheel.
 # Hand Segment Effects with MediaPipe
+
+Real-time MediaPipe hand tracking project that selects image processing effects using a 6-segment gesture wheel.
 
 This project uses MediaPipe hand tracking and OpenCV to control real-time image processing effects with a 6-segment gesture wheel.
 
@@ -27,11 +27,12 @@ This project uses MediaPipe hand tracking and OpenCV to control real-time image 
 
 ```bash
 pip install opencv-python mediapipe numpy
+```
 
 ## Project Preview
 
 The project detects the hand and selects one of six image processing effects using a segment-based gesture wheel.
 
-![Project Preview 1](preview_1.jpeg)
+![Project Preview 1](filter_image.jpeg)
 
-![Project Preview 2](preview_2.jpeg)
+![Project Preview 2](filter_image%20(2).jpeg)
